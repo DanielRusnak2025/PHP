@@ -27,6 +27,7 @@
 
 первый метод :
 4.  <img width="719" height="130" alt="изображение" src="https://github.com/user-attachments/assets/49144fba-e9f6-4381-baad-a19b23b03b9c" />
+    <img width="482" height="91" alt="изображение" src="https://github.com/user-attachments/assets/00073a26-adb3-4845-a45e-f951fd19ddc3" />
 
 
 
