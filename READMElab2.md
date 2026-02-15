@@ -13,10 +13,10 @@ ________________________________________________________________________________
 Шаг 2: Альтернативный способ установки PHP
 
 
-1.  <img width="505" height="386" alt="изображение" src="https://github.com/user-attachments/assets/d264dd95-acf7-4cd2-ae34-e89d6078471f" />
-2.  <img width="497" height="416" alt="изображение" src="https://github.com/user-attachments/assets/9d6edb90-9920-499c-9597-2edece7c9aca" />
-3.  <img width="665" height="434" alt="изображение" src="https://github.com/user-attachments/assets/97b78c63-9984-4a5a-92a9-626daa1b7d79" />
-4.  <img width="1432" height="727" alt="изображение" src="https://github.com/user-attachments/assets/a9937184-763a-44ec-8f70-1de0fb30ab88" />
+1.      <img width="505" height="386" alt="изображение" src="https://github.com/user-attachments/assets/d264dd95-acf7-4cd2-ae34-e89d6078471f" />
+2.      <img width="497" height="416" alt="изображение" src="https://github.com/user-attachments/assets/9d6edb90-9920-499c-9597-2edece7c9aca" />
+3.      <img width="665" height="434" alt="изображение" src="https://github.com/user-attachments/assets/97b78c63-9984-4a5a-92a9-626daa1b7d79" />
+4.      <img width="1432" height="727" alt="изображение" src="https://github.com/user-attachments/assets/a9937184-763a-44ec-8f70-1de0fb30ab88" />
 
 
 _________________________________________________________________________________________________________________________________________________
