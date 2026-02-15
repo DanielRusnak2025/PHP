@@ -9,6 +9,7 @@
 5.   <img width="702" height="189" alt="изображение" src="https://github.com/user-attachments/assets/91eccead-4d71-4087-a0e1-b0aa26d573cf" />
 
 
+_________________________________________________________________________________________________________________________________________________
 Шаг 2: Альтернативный способ установки PHP
 
 
@@ -18,6 +19,7 @@
 4.  <img width="1432" height="727" alt="изображение" src="https://github.com/user-attachments/assets/a9937184-763a-44ec-8f70-1de0fb30ab88" />
 
 
+_________________________________________________________________________________________________________________________________________________
 Шаг 3. Написание первой PHP-программы
 
 
@@ -25,11 +27,23 @@
 2.  <img width="497" height="106" alt="изображение" src="https://github.com/user-attachments/assets/4e4e93d2-807b-4ad7-ad2d-816d9bae95dd" />
 3.  <img width="284" height="122" alt="изображение" src="https://github.com/user-attachments/assets/14f1b2fd-6daf-4ae1-9a18-1b4cf1664481" />
 
+
+_________________________________________________________________________________________________________________________________________________
 первый метод (встроенный веб-сервер PHP) :
-4.  <img width="719" height="130" alt="изображение" src="https://github.com/user-attachments/assets/49144fba-e9f6-4381-baad-a19b23b03b9c" />
-    <img width="482" height="91" alt="изображение" src="https://github.com/user-attachments/assets/00073a26-adb3-4845-a45e-f951fd19ddc3" />
+4.  
+<img width="719" height="130" alt="изображение" src="https://github.com/user-attachments/assets/49144fba-e9f6-4381-baad-a19b23b03b9c" />
+<img width="482" height="91" alt="изображение" src="https://github.com/user-attachments/assets/00073a26-adb3-4845-a45e-f951fd19ddc3" />
+
+
+    
 второй метод (XAMPP) :
-4.  <img width="448" height="107" alt="изображение" src="https://github.com/user-attachments/assets/9904dde6-6bb0-4ad8-8ff8-1c274788f125" />
+4.  
+<img width="448" height="107" alt="изображение" src="https://github.com/user-attachments/assets/9904dde6-6bb0-4ad8-8ff8-1c274788f125" />
+<img width="457" height="98" alt="изображение" src="https://github.com/user-attachments/assets/b98cd7dc-984f-4873-8b00-5ab724a9d6ee" />
+
+
+_________________________________________________________________________________________________________________________________________________
+Шаг 4. Вывод данных в PHP
     
 
 
