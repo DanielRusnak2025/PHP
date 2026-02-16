@@ -13,10 +13,10 @@ ________________________________________________________________________________
 Шаг 2: Альтернативный способ установки PHP
 
 
-1.      <img width="505" height="386" alt="изображение" src="https://github.com/user-attachments/assets/d264dd95-acf7-4cd2-ae34-e89d6078471f" />
-2.      <img width="497" height="416" alt="изображение" src="https://github.com/user-attachments/assets/9d6edb90-9920-499c-9597-2edece7c9aca" />
-3.      <img width="665" height="434" alt="изображение" src="https://github.com/user-attachments/assets/97b78c63-9984-4a5a-92a9-626daa1b7d79" />
-4.      <img width="1432" height="727" alt="изображение" src="https://github.com/user-attachments/assets/a9937184-763a-44ec-8f70-1de0fb30ab88" />
+1. <img width="505" height="386" alt="изображение" src="https://github.com/user-attachments/assets/d264dd95-acf7-4cd2-ae34-e89d6078471f" />
+2. <img width="497" height="416" alt="изображение" src="https://github.com/user-attachments/assets/9d6edb90-9920-499c-9597-2edece7c9aca" />
+3. <img width="665" height="434" alt="изображение" src="https://github.com/user-attachments/assets/97b78c63-9984-4a5a-92a9-626daa1b7d79" />
+4. <img width="1432" height="727" alt="изображение" src="https://github.com/user-attachments/assets/a9937184-763a-44ec-8f70-1de0fb30ab88" />
 
 
 _________________________________________________________________________________________________________________________________________________
@@ -24,8 +24,8 @@ ________________________________________________________________________________
 
 
 1.  
-2.      <img width="497" height="106" alt="изображение" src="https://github.com/user-attachments/assets/4e4e93d2-807b-4ad7-ad2d-816d9bae95dd" />
-3.      <img width="284" height="122" alt="изображение" src="https://github.com/user-attachments/assets/14f1b2fd-6daf-4ae1-9a18-1b4cf1664481" />
+2. <img width="497" height="106" alt="изображение" src="https://github.com/user-attachments/assets/4e4e93d2-807b-4ad7-ad2d-816d9bae95dd" />
+3. <img width="284" height="122" alt="изображение" src="https://github.com/user-attachments/assets/14f1b2fd-6daf-4ae1-9a18-1b4cf1664481" />
 
 
 _________________________________________________________________________________________________________________________________________________
