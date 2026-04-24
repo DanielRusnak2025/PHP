@@ -255,3 +255,40 @@ public function sort(array $recipes, string $field, string $dir): array
 6. **ООП-подход**: разделение ответственности между классами `Recipe`, `RecipeValidator`, `RecipeStorage`.
 7. **Защита от XSS** через `htmlspecialchars()` при выводе пользовательских данных.
 8. **Сортировка данных** по нескольким полям через GET-параметры.
+
+
+
+
+
+
+
+
+GET — данные идут в URL: index.php?sort=title&dir=asc. Используется для чтения данных (поиск, сортировка). В проекте — index.php получает параметры сортировки.
+POST — данные идут в теле запроса, не видны в URL. Используется когда данные меняются. В проекте — create.php отправляет новый рецепт на save.php.
+
+
+$_GET      — данные из URL
+$_POST     — данные из POST-формы
+$_SESSION  — данные между запросами
+$_SERVER   — данные о запросе (метод, заголовки)
+
+
+
+
+
+
+
+// index.php
+$sort = $_GET['sort'] ?? 'updated_at';
+
+// save.php
+'title' => trim($_POST['title'] ?? ''),
+
+// save.php → create.php
+$_SESSION['errors'] = $validator->getErrors();
+
+// save.php
+$_SERVER['REQUEST_METHOD'] !== 'POST'
+
+
+
